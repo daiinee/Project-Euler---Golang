@@ -19,4 +19,5 @@ func main() {
 
 func sumSeries(x, y int) int {
 	return x
+	/*I need to do the series here.*/
 }
