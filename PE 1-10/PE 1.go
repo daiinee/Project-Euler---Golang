@@ -5,7 +5,7 @@ func description() {
 }
 
 func analysis() {
-	print("This problem can be solved using an arithmetic progression with a common diffetence to find the sum of all the numbers multiples of 5 and 3, \nbut there's a catch, we must substract those numbers multiples of 15 as they're factors of both 3 and 5, and the will be counted twice.")
+	print("This problem can be solved using an arithmetic progression with a common difference to find the sum of all the numbers multiples of 5 and 3, \nbut there's a catch, we must substract those numbers multiples of 15 as they're factors of both 3 and 5, and they will be counted twice.")
 }
 
 func main() {
