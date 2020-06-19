@@ -18,6 +18,6 @@ func main() {
 }
 
 func sumSeries(x, y int) int {
-	return x
-	/*I need to do the series here.*/
+	n := (y / x)
+	return (((n + 1) * x * n) / 2)
 }
