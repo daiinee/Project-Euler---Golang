@@ -4,6 +4,9 @@
 
 This is my attempt at solving the famous mathematical/computer challenges with <b>Golang</b>.
 
+<b>More Info at: </b>
+https://projecteuler.net
+
 ## Project structure
 
 ```
