@@ -1,5 +1,3 @@
-# Project Euler
-
 <p align="center">
 <a><img src="https://placehold.co/600x200/8e8eff/white?text=PROJECT+EULER&font=lato"/></a>
 </p>
